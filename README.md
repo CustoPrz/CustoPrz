@@ -17,7 +17,6 @@
 
 ## 📈 My GitHub Stats  
 
-### 🔝 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CustoPrz&layout=compact&theme=radical)
 
 ---
