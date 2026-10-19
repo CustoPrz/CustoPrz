@@ -1,31 +1,23 @@
-# 👋 Hi, I'm CustoPrz!  
+# CustoPrz
 
-🌟 **Welcome to my GitHub profile!**  
-🔭 Aspiring **Full Stack Developer** with a passion for creating amazing applications and solving challenging problems.  
+Software developer based in Granada, Spain.
 
----
+I work mainly on frontend development, building web applications with **Angular** and **TypeScript**. My background also includes Java, C# and backend development.
 
-## 🧑‍💻 About Me  
+I enjoy understanding how things work, figuring out why they don't, and finding better ways to build them. I've always been interested in programming beyond work, from experimenting with Unity to developing my own projects.
 
-- 📍 From: **Granada, Spain 🇪🇸**  
-- 🎓 Currently preparing to become a **Full Stack Developer**.  
-- 💻 I’ve been passionate about development with **Unity** and **C#**, but now I’m diving deeper into **JavaScript** and **React**.  
-- 🛠️ I excel at **debugging and finding efficient solutions** to problems.  
-- 🎂 Age: **25 years old**  
+Most of what you'll find here is a mix of personal projects, experiments and things I've built along the way.
 
----
+### Tech
 
-## 📈 My GitHub Stats  
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Java, C#, Node.js  
+**Tools:** Git, Docker, SQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CustoPrz&layout=compact&theme=radical)
+### GitHub
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CustoPrz&layout=compact&theme=github_dark)
 
-## 🌐 Connect With Me  
+### Elsewhere
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/custodiopérez)  
-- 🌍 [Portfolio](https://custoprz.dev)  
-
----
-
-⭐️ **Feel free to explore my repositories and contribute if you find something interesting! Together we can create amazing things.**  
+[Portfolio](https://custoprz.dev) · [LinkedIn](https://www.linkedin.com/in/custodiopérez)
